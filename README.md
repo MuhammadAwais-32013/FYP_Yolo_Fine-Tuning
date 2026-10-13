@@ -5,6 +5,7 @@ A custom traffic detection project developed for the final-year project titled: 
 This repository contains the implementation and documentation for fine-tuning a YOLO model on a self-collected and manually annotated traffic dataset built specifically for traffic monitoring and choking-point detection in urban environments.
 
 > Quick access: [Open the fine-tuning notebook in Google Colab](https://colab.research.google.com/drive/12Txu1gJ21R1P4P9uC7jpQdc_psE-5UE6?usp=sharing)
+> Quick access: [Open the Dataset](https://www.kaggle.com/datasets/muhammadawaisqrni/yolo-numl-dataset-1-0)
 
 ---
 
